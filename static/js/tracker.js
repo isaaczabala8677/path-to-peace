@@ -8,7 +8,7 @@
   var CONFIG = {
     // 1) URL del Apps Script publicado (termina en /exec).
     //    Si la dejas vacía, el juego funciona igual pero sin guardar en la nube.
-    endpoint: '',
+    endpoint: 'https://script.google.com/macros/s/AKfycbyja2OBW61yqY6b-ZK7Km78D3grwWFc5Cb7YXxlvCR9qeG0X57SNJ1wGNBiUBzxgqHV/exec',
 
     // 2) Archivos del motor de Genially. Si vuelves a exportar desde Genially,
     //    revisa estos dos nombres: los códigos del final cambian en cada export.
